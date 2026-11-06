@@ -36,3 +36,8 @@ The provided files stay where they are because both your scripts and the answers
 - **Lab 5:** four Melbourne data files are missing (`pedestrian_counts.txt`, `lines_ys.txt`, `sensors_xs.txt`, `sensors_ys.txt`). Sections 1–2 run on synthetic stand-in data until you copy those files from Blackboard into `lab5_DataDrivenModelling/`.
 - **Python packages used:** numpy, scipy, pandas, matplotlib, statsmodels, scikit-learn, networkx, geopandas/shapely, pyproj, osmium, Pillow. All are already installed.
 # Y4_TMM
+
+
+## Additional data source (Lab 7)
+
+https://opendata.bristol.gov.uk/datasets/fff13e074ca74a14b9f444735b5b73bf_41/explore
