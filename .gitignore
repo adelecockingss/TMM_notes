@@ -1,0 +1,17 @@
+# Over GitHub's 100 MB limit: the repo holds ODWP01EW_MSOA.zip instead.
+# After cloning, unzip it into lab1_demandModelling/ to get the CSV back.
+lab1_demandModelling/ODWP01EW_MSOA.csv
+
+# Leftover from an unfinished browser download (a copy of the CSV above)
+*.crdownload
+
+# Stray empty repo folder from the GitHub setup steps (safe to delete)
+Y4_TMM/
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Empty nested clone
+TMM_notes/
